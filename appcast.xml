@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Quota</title>
+        <item>
+            <title>1.16.0</title>
+            <pubDate>Wed, 23 Sep 2026 08:04:12 +0200</pubDate>
+            <sparkle:version>20</sparkle:version>
+            <sparkle:shortVersionString>1.16.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://johanstefanes.github.io/quota-updates/Quota-1.16.0-unsigned.dmg" length="14451136" type="application/octet-stream" sparkle:edSignature="3vwsX5PtOw8E610s0wjQXELqe/Y0DE0/P72RBexJJSPpgAY1nOd4kQx956D8xsq5KwHjoXtEI0QYkRNvWTd/CA=="/>
+        </item>
+    </channel>
+</rss>
