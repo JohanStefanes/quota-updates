@@ -4,11 +4,11 @@
         <title>Quota</title>
         <item>
             <title>1.16.0</title>
-            <pubDate>Wed, 23 Sep 2026 08:04:12 +0200</pubDate>
+            <pubDate>Wed, 23 Sep 2026 08:08:50 +0200</pubDate>
             <sparkle:version>20</sparkle:version>
             <sparkle:shortVersionString>1.16.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://johanstefanes.github.io/quota-updates/Quota-1.16.0-unsigned.dmg" length="14451136" type="application/octet-stream" sparkle:edSignature="3vwsX5PtOw8E610s0wjQXELqe/Y0DE0/P72RBexJJSPpgAY1nOd4kQx956D8xsq5KwHjoXtEI0QYkRNvWTd/CA=="/>
+            <enclosure url="https://johanstefanes.github.io/quota-updates/Quota-1.16.0-unsigned.dmg" length="14451061" type="application/octet-stream" sparkle:edSignature="mnr9VAAktzfQOGYrGzMa8fs9NBtBtksR9Hi+2d9rj5bIiUPrLpLhyEmdZwOKR2nwrcZ1xq3Hb+ezVDaYPMj0Cw=="/>
         </item>
     </channel>
 </rss>
